@@ -5,11 +5,11 @@
 This repository contains a Power BI project focused on defining key performance indicators (KPIs) and creating a comprehensive dashboard to provide insights into customer demographics and retention for the telecom industry. The project includes findings and actionable recommendations to enhance customer retention strategies.
 
 ## Dashboard Screenshots
-### Customer Demographics Overview
+### Churn Dashboard
 ![Customer Demographics Overview](https://github.com/DILIPdk1101/Telecom-Customer-Retention-Dashboard/blob/d4554ece4927c6e7153748d782a1354def3759e7/chrun%20dashboard.png)
 
-### Retention Insights
-![Retention Insights]()
+### Customer Risk Analysis Dashboard
+![Retention Insights](https://github.com/DILIPdk1101/Telecom-Customer-Retention-Dashboard/blob/8b98c7cc5ed98dc28d0f8dbf0e7c25211a1739c8/Customer%20risk%20analysis.png)
 
 
 ## Project Contents:
@@ -29,7 +29,7 @@ Promote Automatic Payments: Aim for a yearly increase of automatic payment adopt
 Enhanced Customer Feedback: Implement more detailed and frequent surveys to gather actionable customer insights.
 Personalized Marketing: Develop targeted marketing campaigns based on customer behavior and preferences.
 Loyalty Programs: Introduce or enhance loyalty programs to incentivize repeat purchases and improve customer satisfaction.
-Proactive Support: Utilize predictive analytics to identify and engage at-risk customers before they churn.
+Proactive Support: Use predictive analytics to identify and engage at-risk customers before churning.
 
 
 This repository demonstrates the effective use of Power BI for data visualization and analysis, providing valuable insights and recommendations to improve customer retention in the telecom industry.
