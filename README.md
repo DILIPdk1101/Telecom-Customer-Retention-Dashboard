@@ -4,6 +4,14 @@
 
 This repository contains a Power BI project focused on defining key performance indicators (KPIs) and creating a comprehensive dashboard to provide insights into customer demographics and retention for the telecom industry. The project includes findings and actionable recommendations to enhance customer retention strategies.
 
+## Dashboard Screenshots
+### Customer Demographics Overview
+![Customer Demographics Overview]()
+
+### Retention Insights
+![Retention Insights]()
+
+
 ## Project Contents:
 
 Define Proper KPIs: Identified and implemented critical KPIs such as churn rate, retention rate, customer lifetime value (CLV), and customer satisfaction score (CSAT).
