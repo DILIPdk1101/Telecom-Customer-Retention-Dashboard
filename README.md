@@ -6,7 +6,7 @@ This repository contains a Power BI project focused on defining key performance 
 
 ## Dashboard Screenshots
 ### Customer Demographics Overview
-![Customer Demographics Overview]()
+![Customer Demographics Overview](https://github.com/DILIPdk1101/Telecom-Customer-Retention-Dashboard/blob/d4554ece4927c6e7153748d782a1354def3759e7/chrun%20dashboard.png)
 
 ### Retention Insights
 ![Retention Insights]()
